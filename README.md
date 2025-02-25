@@ -1,5 +1,3 @@
-# AI-automation-1
-First automation project 
 # Krista’s AI Portfolio 🚀
 Welcome to my AI portfolio! Here, I showcase AI automation projects that improve business efficiency.
 
