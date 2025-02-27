@@ -1,12 +1,2 @@
-# Krista’s AI Portfolio 🚀
-Welcome to my AI portfolio! Here, I showcase AI automation projects that improve business efficiency.
-
-## 📌 Project 1: AI Meeting Notes Summarizer
-- Summarizes Zoom/Google Meet meeting notes
-- Uses OpenAI to generate key takeaways
-- Automates email delivery of summaries
-  
-### 🔹 How It Works
-1. Fetch meeting transcripts from Google Meet/Zoom.
-2. Use OpenAI’s GPT-4 API to summarize key points.
-3. Email the structured summary to participants.
+# Krista’s no-code/low-code AI Journey 🚀
+Welcome to my AI journey! Here, I will be sharing my Day 1 - Day 100 AI automation & AI agentic projects! 
