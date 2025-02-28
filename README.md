@@ -1,2 +1,3 @@
-# Krista’s no-code/low-code AI Journey 🚀
-Welcome to my AI journey! Here, I will be sharing my Day 1 - Day 100 AI automation & AI agentic projects! 
+# 🚀 My No-Code/Low-Code AI Quest! 🤖✨
+
+Join me as I dive headfirst into 100 days of AI automation & agentic experiments—all without writing a single line of hardcore code 
