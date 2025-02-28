@@ -5,4 +5,5 @@ Automated, personalized emails for coachees' onboarding
 ## 📌 Workflow Diagram  in n8n:
 ![Workflow Diagram](images/workflow-screenshot.png)
 
+## 📌 How it works in action:
 ![AI Automation in Action](https://raw.githubusercontent.com/Kurosity-1/Day-1-AI-automated-email/main/images/AI_automated_email_gif.gif)
