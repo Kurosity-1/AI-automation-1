@@ -1,3 +1,8 @@
-# 🚀 My No-Code/Low-Code AI Quest! 🤖✨
+# 🚀 Day 1 of my no-code/low-code AI journey! 🤖✨
 
-Join me as I dive headfirst into 100 days of AI automation & agentic experiments—all without writing a single line of hardcore code 
+Automated, personalized emails for coachees' onboarding
+
+## 📌 Workflow Diagram  in n8n:
+![Workflow Diagram](images/workflow-screenshot.png)
+
+
